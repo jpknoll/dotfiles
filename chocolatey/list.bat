@@ -1,1 +1,1 @@
-choco list -lo >> packages.txt
+choco list -lo > packages.txt
