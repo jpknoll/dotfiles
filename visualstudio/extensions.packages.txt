@@ -1,0 +1,3 @@
+code alignment
+karma test adapter
+resharper
