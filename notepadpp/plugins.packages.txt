@@ -1,0 +1,8 @@
+compare
+converter
+jsTool
+mimeTools
+nppExport
+nppFtp
+pluginManager
+xmlTools
